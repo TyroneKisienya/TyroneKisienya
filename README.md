@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+https://wakatime.com/badge/user/b4ad8fdc-7d7a-4b25-8bc3-f31bbc1778ad.svg
+
+## It's gonna be okay
 <!--
 **TyroneKisienya/TyroneKisienya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
