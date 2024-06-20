@@ -2,8 +2,6 @@
 
 <a href="https://wakatime.com/badge/user/b4ad8fdc-7d7a-4b25-8bc3-f31bbc1778ad/project/22e10002-c129-4ac5-b5a0-7f278dc23b05"><img src="https://wakatime.com/badge/user/b4ad8fdc-7d7a-4b25-8bc3-f31bbc1778ad/project/22e10002-c129-4ac5-b5a0-7f278dc23b05.svg" alt="wakatime"></a>
 
-<a href="https://wakatime.com/badge/user/b4ad8fdc-7d7a-4b25-8bc3-f31bbc1778ad/project/419ec02a-d0b8-4cbc-b178-3da21c4322bb"><img src="https://wakatime.com/badge/user/b4ad8fdc-7d7a-4b25-8bc3-f31bbc1778ad/project/419ec02a-d0b8-4cbc-b178-3da21c4322bb.svg" alt="wakatime"></a>
-
 ## It's gonna be okay
 <!--
 **TyroneKisienya/TyroneKisienya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
