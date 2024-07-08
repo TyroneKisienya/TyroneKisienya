@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://wakatime.com/@b4ad8fdc-7d7a-4b25-8bc3-f31bbc1778ad"><img src="https://wakatime.com/badge/user/b4ad8fdc-7d7a-4b25-8bc3-f31bbc1778ad.svg" alt="Total time coded since May 8 2024" />Wakatime</a>
+<a href="https://wakatime.com/@b4ad8fdc-7d7a-4b25-8bc3-f31bbc1778ad"><img src="https://wakatime.com/badge/user/b4ad8fdc-7d7a-4b25-8bc3-f31bbc1778ad.svg" alt="Total time coded since May 8 2024" /></a>
 
 ## It's gonna be okay
 <!--
