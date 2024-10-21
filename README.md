@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <a href="https://wakatime.com/@b4ad8fdc-7d7a-4b25-8bc3-f31bbc1778ad"><img src="https://wakatime.com/badge/user/b4ad8fdc-7d7a-4b25-8bc3-f31bbc1778ad.svg" alt="Total time coded since May 8 2024" /></a>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e28891e1-bb2b-4858-a3b9-3addc0c0f718" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## It's gonna be okay
 <!--
