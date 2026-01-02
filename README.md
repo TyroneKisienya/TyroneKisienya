@@ -4,7 +4,6 @@
 
 ## Trying Stuff
 ## With great Responsibility comes great Power.
-## Don't wait, just try everything
 <!--
 **TyroneKisienya/TyroneKisienya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
